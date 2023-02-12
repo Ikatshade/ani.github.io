@@ -30,7 +30,7 @@ body {
     height: 10rem;
     border-radius: 50%;
     background-color: green;
-    animation-duration: 1.7s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
     animation-name: change;
     animation-direction: alternate;
